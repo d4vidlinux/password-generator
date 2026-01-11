@@ -29,17 +29,17 @@ a simple tool to create stronger passwords for personal use.
 
 1. Clone the repository:
     ```bash
-git clone https://github.com/d4vidlinux/password-generator.git
-cd password-generator
-```
+    git clone https://github.com/d4vidlinux/password-generator.git
+    cd password-generator
+    ```
 
 2. Python Installation:
 [Download Python](https://www.python.org/downloads)
 
 3. Execution:
     ```bash
-python3 password_generator.py
-```
+    python3 password_generator.py
+    ```
 
 
 ---
