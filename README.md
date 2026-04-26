@@ -6,6 +6,7 @@ It generates secure passwords using letters, numbers, and symbols.
 The goal of this project is to practice Python programming and provide
 a simple tool to create stronger passwords for personal use.
 
+![Code print](code.png)
 
 ---
 
