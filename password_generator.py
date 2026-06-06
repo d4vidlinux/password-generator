@@ -25,3 +25,4 @@ for i in range(length):
     final = [letter_char1,letter_symbols,letter_upper,num_numbers]
     result = secrets.choice(final)
     print(result,end="")
+print("\n")
