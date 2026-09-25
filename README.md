@@ -9,6 +9,8 @@ a simple tool to create stronger passwords for personal use.
 
 ---
 
+![Example image code](code.png)
+
 
 ## 🔑 Features 
 
